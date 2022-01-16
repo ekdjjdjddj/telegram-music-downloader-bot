@@ -59,7 +59,5 @@ To get a local copy installed and working, follow these steps:
 
 
 ## 📷 Screenshot
-
-<img src="https://user-images.githubusercontent.com/58452863/134260965-005e32f3-27aa-435e-81c9-70b50cf1a8f1.png" alt="Screenshot" width="305" height="700">
-
+![photo_2021-09-12_11-16-05](https://user-images.githubusercontent.com/97808528/149650610-d60e9720-94f2-40a9-9f14-db800117f58e.jpg)
 
